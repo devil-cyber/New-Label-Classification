@@ -1,9 +1,9 @@
-# create enivornment
-pip install pipenv
+# create enivornment for linux
+sudo pip install pipenv
 pipenv shell
 
 # install dependencies
-pip install -r requirements.txt
+pipenv install -r requirements.txt
 
 # start training
 python run.py
