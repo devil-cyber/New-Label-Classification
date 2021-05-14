@@ -58,9 +58,6 @@ tensorflow-cpu==2.5.0
 tensorflow-estimator==2.5.0rc0
 termcolor==1.1.0
 toolz==0.11.1
-torch==1.8.1
-torchaudio==0.8.0a0+e4e171a
-torchvision==0.9.1
 tqdm==4.60.0
 typing-extensions 
 urllib3==1.26.4
